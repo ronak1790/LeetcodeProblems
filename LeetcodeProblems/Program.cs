@@ -3,7 +3,11 @@
 namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
+
+            ProgramMinDiffBetweenTwoElements programObj = new ProgramMinDiffBetweenTwoElements();
+            programObj.ProgramMinDiffBetweenTwoElementsMain();
+
+
 
         }
     }
