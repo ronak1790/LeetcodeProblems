@@ -4,8 +4,8 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            ProgramMinDiffBetweenTwoElements programObj = new ProgramMinDiffBetweenTwoElements();
-            programObj.ProgramMinDiffBetweenTwoElementsMain();
+            ProgramTwoSum programObj = new ProgramTwoSum();
+            programObj.TwoSumMain();
 
 
 
