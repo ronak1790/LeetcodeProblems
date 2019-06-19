@@ -36,6 +36,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProgramTwoSum.cs" />
     <Compile Include="ProgramMinDiffBetweenTwoElements.cs" />
+    <Compile Include="ReverseInteger.cs" />
+    <Compile Include="FindCommonCharacters.cs" />
+    <Compile Include="RemoveOutermostParanthesis.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

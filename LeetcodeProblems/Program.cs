@@ -4,8 +4,8 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            ProgramTwoSum programObj = new ProgramTwoSum();
-            programObj.TwoSumMain();
+            RemoveOutermostParanthesis programObj = new RemoveOutermostParanthesis();
+            programObj.MainMethod();
 
 
 
