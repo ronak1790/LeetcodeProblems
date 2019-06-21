@@ -39,6 +39,8 @@
     <Compile Include="ReverseInteger.cs" />
     <Compile Include="FindCommonCharacters.cs" />
     <Compile Include="RemoveOutermostParanthesis.cs" />
+    <Compile Include="SquaresOfASortedArray.cs" />
+    <Compile Include="HammingDistance.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

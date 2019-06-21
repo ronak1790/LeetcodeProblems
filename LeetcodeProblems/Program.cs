@@ -4,7 +4,7 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            RemoveOutermostParanthesis programObj = new RemoveOutermostParanthesis();
+            HammingDistance programObj = new HammingDistance();
             programObj.MainMethod();
 
 
