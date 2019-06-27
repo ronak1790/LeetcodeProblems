@@ -4,7 +4,7 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            HammingDistance programObj = new HammingDistance();
+            SortArrayByParity programObj = new SortArrayByParity();
             programObj.MainMethod();
 
 

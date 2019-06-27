@@ -41,6 +41,9 @@
     <Compile Include="RemoveOutermostParanthesis.cs" />
     <Compile Include="SquaresOfASortedArray.cs" />
     <Compile Include="HammingDistance.cs" />
+    <Compile Include="Uber1.cs" />
+    <Compile Include="Uber2.cs" />
+    <Compile Include="SortArrayByParity.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
