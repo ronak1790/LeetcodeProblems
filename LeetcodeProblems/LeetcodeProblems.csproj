@@ -44,6 +44,9 @@
     <Compile Include="Uber1.cs" />
     <Compile Include="Uber2.cs" />
     <Compile Include="SortArrayByParity.cs" />
+    <Compile Include="PeakIndexInAMountainArray.cs" />
+    <Compile Include="AvailableCapturesForRook.cs" />
+    <Compile Include="FibonacciNumber.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

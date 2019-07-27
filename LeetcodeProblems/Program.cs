@@ -4,7 +4,7 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            SortArrayByParity programObj = new SortArrayByParity();
+            FibonacciNumber programObj = new FibonacciNumber();
             programObj.MainMethod();
 
 
