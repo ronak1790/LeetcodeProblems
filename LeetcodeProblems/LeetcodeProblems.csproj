@@ -47,6 +47,12 @@
     <Compile Include="PeakIndexInAMountainArray.cs" />
     <Compile Include="AvailableCapturesForRook.cs" />
     <Compile Include="FibonacciNumber.cs" />
+    <Compile Include="SearchInBinarySearchTree.cs" />
+    <Compile Include="BinarySearchTreeInsert.cs" />
+    <Compile Include="ArrayPartition.cs" />
+    <Compile Include="UniqueEmailAddresses.cs" />
+    <Compile Include="BinaryNumberWithAlternatingBits.cs" />
+    <Compile Include="GoatLatin.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

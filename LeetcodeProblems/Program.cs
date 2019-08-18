@@ -4,7 +4,7 @@ namespace LeetcodeProblems {
     class MainClass {
         public static void Main(string[] args) {
 
-            FibonacciNumber programObj = new FibonacciNumber();
+            GoatLatin programObj = new GoatLatin();
             programObj.MainMethod();
 
 
