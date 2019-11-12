@@ -1,11 +1,15 @@
 ﻿using System;
+using System.Net;
+
 
 namespace LeetcodeProblems {
+
     class MainClass {
         public static void Main(string[] args) {
 
-            GoatLatin programObj = new GoatLatin();
-            programObj.MainMethod();
+            SortCharacterByFrequency programObj = new SortCharacterByFrequency();
+            programObj.SortCharacterByFrequencyMain();
+
 
 
 

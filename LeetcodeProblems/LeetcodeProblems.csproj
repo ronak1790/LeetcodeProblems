@@ -53,6 +53,16 @@
     <Compile Include="UniqueEmailAddresses.cs" />
     <Compile Include="BinaryNumberWithAlternatingBits.cs" />
     <Compile Include="GoatLatin.cs" />
+    <Compile Include="NumberComplement.cs" />
+    <Compile Include="DistributeCandies.cs" />
+    <Compile Include="EnumHelper.cs" />
+    <Compile Include="LengthOfLastWord.cs" />
+    <Compile Include="CargilQuestion.cs" />
+    <Compile Include="TrainComposition.cs" />
+    <Compile Include="RepeatingPlaylist.cs" />
+    <Compile Include="TowerOfHonoi.cs" />
+    <Compile Include="BinearySearchAlgorithm.cs" />
+    <Compile Include="SortCharacterByFrequency.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
